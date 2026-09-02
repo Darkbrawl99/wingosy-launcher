@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "Wingosy Launcher",
-    "version": "0.0.130"
+    "version": "0.0.131"
   },
   "tauri": {
     "allowlist": {
